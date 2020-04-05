@@ -1,0 +1,15 @@
+# Created by https://www.gitignore.io/api/al
+# Edit at https://www.gitignore.io/?templates=al
+
+### AL ###
+#Template for AL projects for Dynamics 365 BC
+#launch.json folder
+MARS_DEVOPS/.vscode/
+#Symbols folder
+MARS_DEVOPS/.alpackages/
+MARS_DEVOPS/.alcache/
+MARS_DEVOPS/.altemplates/
+MARS_DEVOPS/*.app
+
+# End of https://www.gitignore.io/api/al
+
