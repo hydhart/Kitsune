@@ -4,12 +4,12 @@
 ### AL ###
 #Template for AL projects for Dynamics 365 BC
 #launch.json folder
-MARS_DEVOPS/.vscode/
+Power-Payroll/.vscode/
 #Symbols folder
-MARS_DEVOPS/.alpackages/
-MARS_DEVOPS/.alcache/
-MARS_DEVOPS/.altemplates/
-MARS_DEVOPS/*.app
+Power-Payroll/.alpackages/
+Power-Payroll/.alcache/
+Power-Payroll/.altemplates/
+Power-Payroll/*.app
 
 # End of https://www.gitignore.io/api/al
 
