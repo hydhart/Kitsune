@@ -28,8 +28,8 @@
   "platform": "15.0.0.0",
   "idRanges": [
     {
-      "from": 50100,
-      "to": 50149
+      "from": 90000,
+      "to": 99999
     }
   ],
   "contextSensitiveHelpUrl": "https://Payroll.com/help/",
